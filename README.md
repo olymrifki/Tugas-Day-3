@@ -17,5 +17,5 @@ random function untuk menentukan posisi pod selanjutnya
 
 16518414 STEVEN
 
-16018378 LIA OKTAFIANI
+16018387 LIA OKTAFIANI
 
