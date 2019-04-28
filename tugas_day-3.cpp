@@ -17,7 +17,7 @@ int main()
     int myId; // my player ID (0 or 1)
     int zoneCount; // the amount of zones on the map
     int linkCount; // the amount of links between all zones
-    cin >> playerCount >> myId >> zoneCount >> linkCount;
+    //cin >> playerCount >> myId >> zoneCount >> linkCount;
     int platinumSource[zoneCount];
     for (int i = 0; i < zoneCount; i++) {
         int zoneId; // this zone's ID (between 0 and zoneCount-1)
